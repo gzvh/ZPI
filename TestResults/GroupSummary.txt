@@ -1,0 +1,64 @@
+Group Name FunkcjeTests
+Group By Hierarchy
+Group Full Name FunkcjeTests
+Duration 00000,0520001
+0 test(s) failed
+0 test(s) skipped
+7 test(s) passed
+
+Result1 Name	DominataTest
+Result1 Outcome	Passed
+Result1 Duration	00000,046
+Result1 StackTrace
+Result1 Message
+Result1 StandardOutput
+Result1 StandardError
+
+Result2 Name	getDataTest
+Result2 Outcome	Passed
+Result2 Duration	00000,0000001
+Result2 StackTrace
+Result2 Message
+Result2 StandardOutput
+Result2 StandardError
+
+Result3 Name	IloscSesjiTest
+Result3 Outcome	Passed
+Result3 Duration	00000,001
+Result3 StackTrace
+Result3 Message
+Result3 StandardOutput
+Result3 StandardError
+
+Result4 Name	MedianaTest
+Result4 Outcome	Passed
+Result4 Duration	00000,001
+Result4 StackTrace
+Result4 Message
+Result4 StandardOutput
+Result4 StandardError
+
+Result5 Name	OdchylenieStdTest
+Result5 Outcome	Passed
+Result5 Duration	00000,002
+Result5 StackTrace
+Result5 Message
+Result5 StandardOutput
+Result5 StandardError
+
+Result6 Name	RozkadZmianTest
+Result6 Outcome	Passed
+Result6 Duration	00000,001
+Result6 StackTrace
+Result6 Message
+Result6 StandardOutput
+Result6 StandardError
+
+Result7 Name	WspZmTest
+Result7 Outcome	Passed
+Result7 Duration	00000,001
+Result7 StackTrace
+Result7 Message
+Result7 StandardOutput
+Result7 StandardError
+
